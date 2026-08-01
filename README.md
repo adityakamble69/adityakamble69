@@ -122,12 +122,13 @@ Visual storytelling as a creative side passion
 
 <div align="center">
 
-| Skill | Level |
-|---|---|
-| Web Development | ![90%](https://progress-bar.dev/90/?color=2C9EFF) |
-| C Language | ![80%](https://progress-bar.dev/80/?color=2C9EFF) |
-| C++ | ![70%](https://progress-bar.dev/70/?color=2C9EFF) |
-| Python | ![50%](https://progress-bar.dev/50/?color=2C9EFF) |
+<img src="https://img.shields.io/badge/Web%20Development-90%25-2C9EFF?style=for-the-badge&labelColor=0D1117"/>
+<br><br>
+<img src="https://img.shields.io/badge/C%20Language-80%25-00599C?style=for-the-badge&labelColor=0D1117"/>
+<br><br>
+<img src="https://img.shields.io/badge/C%2B%2B-70%25-00599C?style=for-the-badge&labelColor=0D1117"/>
+<br><br>
+<img src="https://img.shields.io/badge/Python-50%25-3776AB?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
