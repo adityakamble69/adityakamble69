@@ -19,12 +19,15 @@
 
 I'm a Full Stack Developer focused on building modern, scalable, and user-friendly applications, with a growing interest in **Machine Learning** and **Backend Engineering**.
 
-```yaml
-name: Aditya Kamble
-role: Full Stack Developer
-location: Nagpur, Maharashtra, India
-education: B.Voc in Software Development (2024 - 2027)
-currently_exploring: [Data Structures, Backend Systems, ML Models]
+```bash
+$ whoami --verbose
+
+> name                 : Aditya Kamble
+> role                 : Full Stack Developer
+> location             : Nagpur, Maharashtra, India
+> education            : B.Voc in Software Development (2024 - 2027)
+> currently_exploring  : Data Structures, Backend Systems, ML Models
+> status                 open to opportunities
 ```
 
 <br>
