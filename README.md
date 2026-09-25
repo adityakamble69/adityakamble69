@@ -2,22 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Aditya%20Kamble&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20India&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9EFF&center=true&vCenter=true&width=550&lines=Building+scalable+web+applications;Exploring+Backend+%26+ML;Turning+ideas+into+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9EFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+scalable+web+applications;Exploring+Backend+Engineering+%26+ML;Turning+ideas+into+production-ready+code" alt="Typing SVG" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/adityakamble69/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/aadii_.yy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:adityakamble69200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/aadii_.yy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=adityakamble69&style=for-the-badge&color=2C9EFF&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a Full Stack Developer focused on building modern, scalable, and user-friendly applications, with a growing interest in **Machine Learning** and **Backend Engineering**.
+I'm a Full Stack Developer focused on building scalable, user-friendly web applications, with a growing focus on **Backend Engineering** and **Machine Learning**.
 
 ```bash
 $ whoami --verbose
@@ -27,31 +27,31 @@ $ whoami --verbose
 > location             : Nagpur, Maharashtra, India
 > education            : B.Voc in Software Development (2024 - 2027)
 > currently_exploring  : Data Structures, Backend Systems, ML Models
-> status                 open to opportunities
+> status               : Open to opportunities
 ```
 
 <br>
 
-## 🚀 What I Do
+## What I Do
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🌐 Web Development**
-Frontend + Backend, end-to-end application development
+**Web Development**
+End-to-end application development across the frontend and backend.
 
-**🎨 UI/UX & Web Design**
-Designing clean, user-friendly interfaces
+**UI/UX & Web Design**
+Designing clean, accessible, and user-friendly interfaces.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🤖 Machine Learning**
-Working with OpenCV & DeepFace on vision-based projects
+**Machine Learning**
+Working with OpenCV and DeepFace on computer vision projects.
 
-**📸 Photography**
-Visual storytelling as a creative side passion
+**Photography**
+Visual storytelling as a creative pursuit alongside development.
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ Visual storytelling as a creative side passion
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Visual storytelling as a creative side passion
 
 <br>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityakamble69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
@@ -99,29 +99,28 @@ Visual storytelling as a creative side passion
 
 <br>
 
-## 🎓 Education
+## Education
 
-<table>
-<tr><th>Qualification</th><th>Year</th></tr>
-<tr><td>SSC (10th)</td><td>2022</td></tr>
-<tr><td>HSC (12th Science)</td><td>2024</td></tr>
-<tr><td>B.Voc in Software Development</td><td>2024 – 2027</td></tr>
-</table>
-
-<br>
-
-## 💼 Experience
-
-**Web Developer Intern** — Asterisk Technocart Pvt Ltd
-📅 2026 – Present
-
-- Built responsive web applications used by real clients
-- Worked across the stack on frontend & backend systems
-- Learned to design and reason about scalable architecture
+| Qualification | Year |
+|---|---|
+| SSC (10th) | 2022 |
+| HSC (12th Science) | 2024 |
+| B.Voc in Software Development | 2024 – 2027 |
 
 <br>
 
-## 📈 Proficiency
+## Experience
+
+**Web Developer Intern** — Asterisc Technocrat Pvt. Ltd.
+*2026 – Present*
+
+- Built responsive, production-facing web applications for real clients
+- Worked across the stack on both frontend and backend systems
+- Developed a stronger understanding of scalable application architecture
+
+<br>
+
+## Proficiency
 
 <div align="center">
 
@@ -137,7 +136,7 @@ Visual storytelling as a creative side passion
 
 <br>
 
-## 📫 Get In Touch
+## Get In Touch
 
 <div align="center">
 
@@ -147,6 +146,6 @@ Visual storytelling as a creative side passion
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer"/>
 
-⭐️ From [adityakamble69](https://github.com/adityakamble69)
+From [adityakamble69](https://github.com/adityakamble69)
 
 </div>
